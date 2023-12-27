@@ -10,6 +10,7 @@
     "git:clear": "bash cleargitcache.sh"
   },
   "dependencies": {
+    "flowbite": "^2.2.1",
     "sass": "^1.62.0"
   },
   "devDependencies": {

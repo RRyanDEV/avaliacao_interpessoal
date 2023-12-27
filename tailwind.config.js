@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./**/*.{php,js}", "./pages/**/*.{php,js}", "./components/**/*.{php,js}"],
+  content: ["./**/*.{php,js}", "./pages/**/*.{php,js}", "./components/**/*.{php,js}" , "./node_modules/flowbite/**/*.js"],
   theme: {
     extend: {
       colors: {
@@ -10,5 +10,7 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('flowbite/plugin')
+  ],
 };

@@ -16,7 +16,7 @@
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?&logo=MySQL&logoColor=white">
 </a>
 
-<a href=""><img src="https://img.shields.io/badge/version-1.0.0-231208?" height="22" alt="Version"/></a>
+<a href=""><img src="https://img.shields.io/badge/version-0.0.2-231227?" height="22" alt="Version"/></a>
 
 <br>
 
@@ -29,6 +29,12 @@
 ## Notas de versão
 
 </a>
+
+### v0.0.2.20231227
+
+- Modificação nas páginas de `Login` , `Cadastro` , `Formulário` e `Dashboard`.
+- Ajustes na responsividade das páginas.
+- Criado os componentes utilizados nas páginas.
 
 ### v0.0.1.20231208
 
